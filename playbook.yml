@@ -1,3 +1,4 @@
+#Change the Ip to the corresponding IP of the VMs
 ---
 - hosts: 192.168.10.240
   become: yes
